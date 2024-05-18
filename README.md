@@ -56,3 +56,29 @@ It is an NLP project. First, we fetch data from an API and collect it in a singl
 
 
 - [tkinter](https://docs.python.org/3/library/tkinter.html)    :   To create ui. 
+
+
+
+
+
+## Setup Intructuions
+#### List of Python Libraries need to install Befor Execution of script: 
+
+ - Request: 
+           
+              -> pip install requests
+    
+    
+- large English model en_core_web_lg: 
+           
+              -> python -m spacy download en_core_web_lg
+- spaCy: 
+           
+              -> pip install -U pip setuptools wheel
+
+              -> pip install -U spacy
+        
+
+- tkinter:    
+               
+               -> pip install tk
